@@ -1,0 +1,20 @@
+[
+  {
+    "clean_prompt": "The capital of France is",
+    "corrupted_prompt": "The capital of Japan is",
+    "correct_token": " Paris",
+    "incorrect_token": " Tokyo"
+  },
+  {
+    "clean_prompt": "The capital of Germany is",
+    "corrupted_prompt": "The capital of Italy is",
+    "correct_token": " Berlin",
+    "incorrect_token": " Rome"
+  },
+  {
+    "clean_prompt": "The capital of Spain is",
+    "corrupted_prompt": "The capital of China is",
+    "correct_token": " Madrid",
+    "incorrect_token": " Beijing"
+  }
+]

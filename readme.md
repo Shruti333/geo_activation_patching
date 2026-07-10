@@ -1,8 +1,5 @@
 # Causal Localization of Fact Retrieval Circuits in GPT-2 Small
 
-This repository contains a clean, production-grade implementation of **Exploratory Activation Patching** (causal mediation analysis) using `TransformerLens`. The goal is to reverse-engineer and map the specific token-layer bottlenecks through which a transformer retrieves geographical facts (Country $\rightarrow$ Capital).
-# Causal Localization of Fact Retrieval Circuits in GPT-2 Small
-
 This repository contains a clean, production-grade implementation of **Exploratory Activation Patching** (causal mediation analysis) using `TransformerLens`. The goal is to reverse-engineer and map the specific token-layer bottlenecks through which a small transformer model (`gpt2-small`) retrieves and routes geographical facts (Country $\rightarrow$ Capital).
 
 ## Project Overview
